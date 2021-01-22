@@ -1,0 +1,25 @@
+    
+   .header {color:rgb(21, 94, 37);
+        display:flex;
+        justify-content:space-between;
+        border:solid;
+        border-style: double;
+    }
+    .grid{
+        display:flex;
+        flex-direction: column;
+        justify-content:first baseline ;
+        border:solid;
+        border-style: double;
+    }
+    .footer{
+        display:flex;
+        justify-content: flex-end;
+        border:solid;
+        border-style: double;
+    }
+    
+   h2{
+       text-align: center;
+   } 
+    
